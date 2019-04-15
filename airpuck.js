@@ -1,6 +1,6 @@
 /*
- *  Version 1.0
- *  2-22-18
+ *  Version 1.1
+ *  15-Apr-19
  *  Copyright 2018 notnatural, LLC.
  *  MIT License
  */
